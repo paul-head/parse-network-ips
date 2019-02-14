@@ -5,8 +5,10 @@ name = "pypi"
 
 [packages]
 requests = "*"
-"beautifulsoup4" = "*"
+beautifulsoup4 = "*"
 commonregex = "*"
+lxml = "*"
+black = "*"
 
 [dev-packages]
 

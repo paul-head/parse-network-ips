@@ -4,7 +4,7 @@ from socket import inet_ntoa, inet_aton
 
 lst = []
 
-with open('ips.csv', 'r') as csvfile:
+with open("ips.csv", "r") as csvfile:
     lines = csvfile.readlines()
 
     for line in lines:
