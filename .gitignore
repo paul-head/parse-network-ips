@@ -172,4 +172,7 @@ dmypy.json
 # csv files
 *.csv
 
+# txt files
+*.txt
+
 # End of https://www.gitignore.io/api/macos,python,jupyternotebook,visualstudiocode
