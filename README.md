@@ -3,4 +3,4 @@
 
 [format.py](https://github.com/yadra/parse-network-ips/blob/master/format.py) - делает сортировку по прядку и выродит список используемых ip
 
-### pipenv run python3 parse.py -> pipenv run python3 format.py (для поиска определенного ip | grep *ip*)
+### pipenv run python3 parser.py -> pipenv run python3 format.py (для поиска определенного ip | grep *ip*)
